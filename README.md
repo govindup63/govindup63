@@ -3,9 +3,11 @@
 I’m a software developer from India, working primarily on backend systems and full-stack applications. Here’s a quick overview of what I do:  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,go,docker" />
-    <img src="https://skillicons.dev/icons?i=git,linux,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,express,nextjs,go,docker,mongodb,postgres" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=git,linux,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,neovim,postman" />
+
 </p>
 
 
