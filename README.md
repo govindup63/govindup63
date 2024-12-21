@@ -5,7 +5,7 @@ I’m a software developer from India, working primarily on backend systems and 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,express,nextjs,react,go,docker,mongodb,postgres" />
     <img src="https://skillicons.dev/icons?i=git,linux,github" />
-    <img src="https://skillicons.dev/icons?i=cpp,neovim,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,neovim,postman,blender" />
 
 </p>
 
