@@ -18,5 +18,4 @@ I’m a software developer from India, working primarily on backend systems and 
 I’m here to build things, solve interesting problems, and contribute to meaningful open-source projects.  
 
 ![govindup63's Stats](https://github-readme-stats.vercel.app/api?username=govindup63&theme=dark&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=govindup63&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![govindup63's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindup63&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=govindup63&theme=dark&hide_border=true" alt="GitHub Streak" /></a>![govindup63's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindup63&theme=dark&show_icons=true&hide_border=true&layout=compact)
