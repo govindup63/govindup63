@@ -16,7 +16,3 @@ I’m a software developer from India, working primarily on backend systems and 
 
 ## 💡 Why I’m Here  
 I’m here to build things, solve interesting problems, and contribute to meaningful open-source projects.  
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=govindup63&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindup63&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
