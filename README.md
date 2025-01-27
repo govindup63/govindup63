@@ -9,7 +9,6 @@ I’m a software developer from India, working primarily on backend systems and 
 
 </p>
 
-
 ## 🛠 What I Work On  
 - **Backend Development**: Building and optimizing server-side applications, mostly using Node.js.  
 - **MERN Stack**: Developing full-stack apps with NextJs, Express, React, Node.js, MongoDB and Postgres.   
