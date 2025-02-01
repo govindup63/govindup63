@@ -15,3 +15,6 @@ I’m a software developer from India, working primarily on backend systems and 
 
 ## 💡 Why I’m Here  
 I’m here to build things, solve interesting problems, and contribute to meaningful open-source projects
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=govindup63)](https://git.io/streak-stats)
