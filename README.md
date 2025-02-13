@@ -14,7 +14,7 @@ I’m a software developer from India, working primarily on backend systems and 
 - **MERN Stack**: Developing full-stack apps with NextJs, Express, React, Node.js, MongoDB and Postgres   
 
 ## 💡 Why I’m Here  
-I’m here to build things, solve interesting problems, and contribute to meaningful open-source projects.
+I’m here to build things, solve interesting problems, and contribute to meaningful open-source projects
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=govindup63&theme=dark)](https://git.io/streak-stats) ![govindup63's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindup63&theme=dark&show_icons=true&hide_border=true&layout=compact)
