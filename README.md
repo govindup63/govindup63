@@ -1,3 +1,5 @@
+![0](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+
 # Hello! 👋  
 
 I’m a software developer from India, working primarily on backend systems and full-stack applications. Here’s a quick overview of what I do:  
