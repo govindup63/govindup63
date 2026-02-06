@@ -1,4 +1,4 @@
-![1695105261674]([https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/TIN-602%20Spiderman_Homecoming_large_all.jpg?itok=28Cw_kpr))
+![TIN-602 Spiderman_Homecoming_large_all](https://github.com/user-attachments/assets/907996a3-1920-420d-8f9e-38337b6b013d)
 
 <!---
 # Hello! 👋  
