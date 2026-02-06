@@ -1,4 +1,4 @@
-![1695105261674]([https://github.com/user-attachments/assets/6919280a-b72c-4711-b6c8-709392822a1c](https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/TIN-602%20Spiderman_Homecoming_large_all.jpg?itok=28Cw_kpr))
+![1695105261674]([https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/TIN-602%20Spiderman_Homecoming_large_all.jpg?itok=28Cw_kpr))
 
 <!---
 # Hello! 👋  
